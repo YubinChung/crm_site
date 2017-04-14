@@ -10,7 +10,7 @@ ol,ul{list-style:none}
 blockquote,q{quotes:none}
 blockquote:before,blockquote:after,q:before,q:after{content:'';content:none}
 table{border-collapse:collapse;border-spacing:0}
-a{cursor:pointer}
+a{cursor:pointer} 
 a:hover{color:#fff!important}
 label{display:block!important;font-size:20px;margin-bottom:10px!important;line-height:24px}
 input[type="text"],input[type="email"]{display:block;width:100%;line-height:33px;outline:none;margin-bottom:10px;font-size:17px;padding:0 10px}
